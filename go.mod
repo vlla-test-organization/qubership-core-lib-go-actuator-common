@@ -3,7 +3,7 @@ module github.com/netcracker/qubership-core-lib-go-actuator-common/v2
 go 1.24.2
 
 require (
-	github.com/netcracker/qubership-core-lib-go/v3 v3.0.0-20250508122204-5cb3c4abfd2b
+	github.com/netcracker/qubership-core-lib-go/v3 v3.0.1
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
 	github.com/stretchr/testify v1.10.0
