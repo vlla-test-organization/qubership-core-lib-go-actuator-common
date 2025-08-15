@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/netcracker/qubership-core-lib-go/v3/configloader"
 	"github.com/stretchr/testify/assert"
+	"github.com/vlla-test-organization/qubership-core-lib-go/v3/configloader"
 	"go.opentelemetry.io/otel"
 )
 

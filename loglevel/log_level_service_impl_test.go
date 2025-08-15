@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/netcracker/qubership-core-lib-go/v3/configloader"
-	"github.com/netcracker/qubership-core-lib-go/v3/logging"
 	"github.com/stretchr/testify/require"
+	"github.com/vlla-test-organization/qubership-core-lib-go/v3/configloader"
+	"github.com/vlla-test-organization/qubership-core-lib-go/v3/logging"
 )
 
 func TestEnvPropertySource(t *testing.T) {
