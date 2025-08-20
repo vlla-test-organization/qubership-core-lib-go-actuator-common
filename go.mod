@@ -8,7 +8,7 @@ require (
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.2
 	github.com/stretchr/testify v1.10.0
-	github.com/vlla-test-organization/qubership-core-lib-go/v3 v3.0.32
+	github.com/vlla-test-organization/qubership-core-lib-go/v3 v3.0.33
 	go.opentelemetry.io/otel v1.35.0
 	go.opentelemetry.io/otel/exporters/zipkin v1.35.0
 	go.opentelemetry.io/otel/sdk v1.35.0
