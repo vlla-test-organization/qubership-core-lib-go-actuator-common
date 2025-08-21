@@ -1,4 +1,4 @@
-module github.com/vlla-test-organization/qubership-core-lib-go-actuator-common/v4
+module github.com/vlla-test-organization/qubership-core-lib-go-actuator-common/v5
 
 go 1.24
 
