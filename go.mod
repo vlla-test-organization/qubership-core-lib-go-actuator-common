@@ -1,6 +1,6 @@
 module github.com/vlla-test-organization/qubership-core-lib-go-actuator-common/v4
 
-go 1.24.2
+go 1.24
 
 require (
 	github.com/prometheus/client_golang v1.22.0
