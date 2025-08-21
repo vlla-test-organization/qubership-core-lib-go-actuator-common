@@ -2,7 +2,7 @@ package tracing
 
 import (
 	"fmt"
-	"github.com/vlla-test-organization/qubership-core-lib-go-actuator-common/v2/tracing/utils"
+	"github.com/vlla-test-organization/qubership-core-lib-go-actuator-common/v3/tracing/utils"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"
 	"math"
